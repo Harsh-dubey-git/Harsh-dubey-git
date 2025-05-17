@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harsh Dubey</h1>
+<h1 align="center">
+  Hi Devs <img src="https://private-user-images.githubusercontent.com/91471322/340133687-43fcd3a5-baa2-4203-b91c-ac7e25dd8e89.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1MTAwNzQsIm5iZiI6MTc0NzUwOTc3NCwicGF0aCI6Ii85MTQ3MTMyMi8zNDAxMzM2ODctNDNmY2QzYTUtYmFhMi00MjAzLWI5MWMtYWM3ZTI1ZGQ4ZTg5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE3VDE5MjI1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRlYzBhODcwNjliNTY2OWQwMzUzNjJkZjI3YmE5YjhiZmIxMDgwNGQ5NzZmYWFjNTI5YTVjN2IwYjVlNTYxNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FhS9w6G3WXG5V0zdoVAsvZJ2BSKv68vHb1-gw2UYcY4" height="30"/> HARSH here!
+</h1>
 <h3 align="center">A passionate Full-stack developer and aspiring Data Analyst</h3>
 
 - 🔭 I’m currently working on **Jarvis Ai Assistant**
