@@ -1,17 +1,66 @@
-<h1 align="center">
-  Hi Devs <img src="https://private-user-images.githubusercontent.com/91471322/340133687-43fcd3a5-baa2-4203-b91c-ac7e25dd8e89.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1MTAwNzQsIm5iZiI6MTc0NzUwOTc3NCwicGF0aCI6Ii85MTQ3MTMyMi8zNDAxMzM2ODctNDNmY2QzYTUtYmFhMi00MjAzLWI5MWMtYWM3ZTI1ZGQ4ZTg5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE3VDE5MjI1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRlYzBhODcwNjliNTY2OWQwMzUzNjJkZjI3YmE5YjhiZmIxMDgwNGQ5NzZmYWFjNTI5YTVjN2IwYjVlNTYxNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FhS9w6G3WXG5V0zdoVAsvZJ2BSKv68vHb1-gw2UYcY4" height="30"/> HARSH here!
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">🔥 Welcome, Devs! 🔥
+<br>
+<span style="font-size: 2.5rem;">I'm <span style="color:#6A5ACD">Harsh Dubey</span></span>
+<img src="https://private-user-images.githubusercontent.com/91471322/340133687-43fcd3a5-baa2-4203-b91c-ac7e25dd8e89.png" height="35"/>
 </h1>
-<h3 align="center">A passionate AI & Full-stack developer </h3>
+  Hi Devs 👋 <img src="https://private-user-images.githubusercontent.com/91471322/340133687-43fcd3a5-baa2-4203-b91c-ac7e25dd8e89.png" height="30" /> HARSH here!
+</h1>
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+<h3 align="center">A passionate AI & Full-stack developer 🚀</h3>
 
-- 📫 How to reach me **harsh.dubeyy07@gmail.com**
+* 🤖 Building **AI-powered applications** using OpenAI, RAG, and n8n
+* 👯 Open to collaborate on **GenAI & Full Stack Open Source Projects**
+* ☁️ Deploying serverless and scalable apps on **AWS**, learning Kafka, and exploring modern cloud architectures
+* 📫 Reach me at **[harsh.dubeyy07@gmail.com](mailto:harsh.dubeyy07@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh-dubey07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-dubey07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/har5h_dubey143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="har5h_dubey143" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh-dubey07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/har5h_dubey143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<h1 align="center"> I'm <span style="color:#6A5ACD">Harsh Dubey</span></h1>
+<h3 align="center">AI Engineer | Full Stack Developer | Cloud Enthusiast</h3>
+
+---
+
+### 🚀 About Me
+
+* 🤖 Passionate about **AI and GenAI applications** using RAG, LLMs, and AI Agents
+* 💼 Solved a **real-world business use-case** by creating a GenAI-powered chatbot using vector search and multimodal inputs
+* 🧠 Skilled in **full-stack development** with React, Node.js, FastAPI, MongoDB, and Supabase
+* ☁️ Experienced deploying apps using **AWS services**: Lambda, EC2, S3, API Gateway, and SNS
+* 🧩 Currently learning **Apache Kafka** for data streaming and event-driven architectures
+* ⚙️ Exploring **workflow automation with n8n** and building smart AI agents
+* 🌱 A continuous learner, diving into new technical challenges and real-world use cases
+
+---
+
+### 🧩 Currently Building
+
+* 🤖 Smart multi-agent systems powered by GenAI and LLMs
+* ⚙️ Workflow automations using **n8n** and AI-based triggers
+* 🔍 Real-time news verification AI system using **RAG**, vector search, and Supabase
+* 🧰 Voice-based personal assistant using Python + OpenAI API + browser automation
+
+---
+
+### 🧠 My Focus Areas
+
+* 🧬 AI Agents & Reasoning Models
+* ☁️ Serverless Cloud Applications
+* 💾 Data Streaming with Kafka
+* 🔐 Scalable, secure full-stack projects
+
+---
+
+### 📬 Let’s Connect
+
+* 💼 LinkedIn: [linkedin.com/in/harsh-dubey07](https://linkedin.com/in/harsh-dubey07)
+* 🧠 LeetCode: [leetcode.com/har5h_dubey143](https://leetcode.com/har5h_dubey143)
+* 📧 Email: **[harsh.dubeyy07@gmail.com](mailto:harsh.dubeyy07@gmail.com)**
+
+---
+
+⭐ *"Build like the future depends on it. Because it does."*
