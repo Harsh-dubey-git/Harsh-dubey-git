@@ -1,29 +1,8 @@
 <h1 align="center" style="font-size: 3rem; font-weight: bold;">🔥 Welcome, Devs! 🔥
 <br>
-<span style="font-size: 2.5rem;">I'm <span style="color:#6A5ACD">Harsh Dubey</span></span>
-<img src="https://private-user-images.githubusercontent.com/91471322/340133687-43fcd3a5-baa2-4203-b91c-ac7e25dd8e89.png" height="35"/>
-</h1>
-  Hi Devs 👋 <img src="https://private-user-images.githubusercontent.com/91471322/340133687-43fcd3a5-baa2-4203-b91c-ac7e25dd8e89.png" height="30" /> HARSH here!
-</h1>
-
-<h3 align="center">A passionate AI & Full-stack developer 🚀</h3>
-
-* 🤖 Building **AI-powered applications** using OpenAI, RAG, and n8n
-* 👯 Open to collaborate on **GenAI & Full Stack Open Source Projects**
-* ☁️ Deploying serverless and scalable apps on **AWS**, learning Kafka, and exploring modern cloud architectures
-* 📫 Reach me at **[harsh.dubeyy07@gmail.com](mailto:harsh.dubeyy07@gmail.com)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsh-dubey07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/har5h_dubey143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-</p>
-
 
 <h1 align="center"> I'm <span style="color:#6A5ACD">Harsh Dubey</span></h1>
 <h3 align="center">AI Engineer | Full Stack Developer | Cloud Enthusiast</h3>
-
----
 
 ### 🚀 About Me
 
